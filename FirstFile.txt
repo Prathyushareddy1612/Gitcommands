@@ -1,3 +1,6 @@
 Hello Prathyusha.....This is my file
 
 Thanks for giving me this oppurtunity
+
+Hello Tharun, can we check on merge conflicts
+
